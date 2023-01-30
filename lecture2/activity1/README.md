@@ -12,13 +12,13 @@
 ## Task 2/5: Brute force
 
 - What is the maximum number of steps it would take to perform a linear search on an ordered array of size 100,000?
-  > Refer to `./src/search-linear.cpp`   <-------- 100.000
+  > Refer to `./src/search-linear.cpp`   <--- 100.000
 
 ## Task 3/5: Decrease-and-Conquer
 
 - What is the maximum number of steps it would take to perform a binary search on an ordered array of size 100,000?
 
-  > Refer to `./src/search-binary.cpp`  <---- 17
+  > Refer to `./src/search-binary.cpp`  <--- 17
 
 ## Task 4/5: Quiz
 
@@ -26,7 +26,7 @@
 
 - [] At most, 32.
 - [] At most, 1.
-- [] At most, 6.   <----
+- [] At most, 6.   <---
 - [] At most, 16.
 
 ## Task 5/5: Individual, at home
