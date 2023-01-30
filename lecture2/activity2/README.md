@@ -48,7 +48,21 @@ The complexity of the previous algorithm is O(1).
 Refer to the first [link](#links).
 
 - Write a simple program that displays all items in a list to the console.
+
+#include <iostream>
+#include <vector>
+
+int main() {
+  std::vector<int> numbers = {1, 2, 3, 4, 5};
+  for (int number : numbers) {
+    std::cout << number << std::endl;
+  }
+  return 0;
+}
+
 - What is the complexity of the algorithm?
+
+The complexity of the previous algorithm is O(n), where n is the number of items in the list. This is because the algorithm loops through each item in the list once, and the time it takes to print each item is constant, so the total time taken is proportional to the number of items in the list.
 
 ## Task 4: : Individual, at home
 
