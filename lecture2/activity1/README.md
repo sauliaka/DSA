@@ -18,7 +18,7 @@
 
 - What is the maximum number of steps it would take to perform a binary search on an ordered array of size 100,000?
 
-  > Refer to `./src/search-binary.cpp`  <---- 50001 
+  > Refer to `./src/search-binary.cpp`  <---- 17
 
 ## Task 4/5: Quiz
 
