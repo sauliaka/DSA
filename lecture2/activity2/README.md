@@ -72,6 +72,14 @@ Refer to this [pdf](./big_o.pdf):
 - Does complexity affects performance bor is it the other way around?
 - Restate the formal definition of big $O$ in plain English
 
+Complexity and performance are related but different concepts in big O notation.
+
+Complexity refers to the upper bound on the growth rate of the running time of an algorithm as a function of the size of its inputs. It provides a theoretical estimate of how the running time of an algorithm will behave as the inputs get larger.
+
+Performance, on the other hand, refers to the actual running time of an algorithm on specific inputs and a specific implementation on a specific machine. It provides a concrete measure of how long the algorithm takes to run.
+
+So, complexity gives us an idea of how the running time of an algorithm grows as the input size increases, whereas performance gives us a measure of the actual running time of the algorithm for specific inputs and implementation.
+
 ## Links
 
 - [Big O Notation and Algorithm Analysis ](https://stackabuse.com/big-o-notation-and-algorithm-analysis-with-python-examples/)
