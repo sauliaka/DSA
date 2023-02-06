@@ -23,6 +23,8 @@
     }
 ```
 
+- This is example of insertion sort, it sorts from small-->large by comparing all previous cases
+
 ## Task 3
 
 - Discuss the complexity analysis of insertion sort. Refer to the link below:
