@@ -5,6 +5,8 @@
 - Refer to the following link. Discuss how bubble sort works:
   https://opendsa-server.cs.vt.edu/embed/bubblesortAV
 
+  Bubble sort for each pass compares each number to next one and swaps bigger one to the right, until it's in the final position, then loops again.
+
 ## Task 2
 
 - Refer to the following link. Your task is to show the behavior for one iteration of the outer for loop of Bubble Sort (Try at least 3 cases).
@@ -30,6 +32,8 @@
         pass++;
     }
 ```
+
+This is bubble sort algorithm for numbers 0-10 and it stores value in temp while doing swapping
 
 - The following snippet is from `./src/selection.cpp` lines 34-41. Discuss in groups how the code works:
 
