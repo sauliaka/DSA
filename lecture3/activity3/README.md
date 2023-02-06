@@ -15,6 +15,8 @@ struct node *rear = NULL;
 struct node *temp;
 ```
 
+If they are not global variables, we could't modify them. There would have to a be pointer or some other system implemented.
+
 ## Task 3:
 
 - The following snippet is from `./src/queue.cpp` lines 11-28. Discuss in groups how the code works:
@@ -39,6 +41,8 @@ void Insert(int val)
     }
 }
 ```
+
+This is example code of queue
 
 ## Task 4: Individual, at home
 
