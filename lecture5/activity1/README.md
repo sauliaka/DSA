@@ -63,8 +63,7 @@ int number_of_paths(int n) {
   if (n == 1) return 1; 
   if (n == 2) return 2; 
   if (n == 3) return 4;
-
-return number_of_paths(n - 1) + number_of_paths(n - 2) + number_of_paths(n - 3);
+  return number_of_paths(n - 1) + number_of_paths(n - 2) + number_of_paths(n - 3);
 }
 
 int main() {
