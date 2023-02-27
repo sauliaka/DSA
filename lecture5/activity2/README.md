@@ -66,6 +66,7 @@ Note that this implementation of the Fibonacci sequence using recursion is not v
 
         return 0;
     }
+```
 
 In this modified implementation, we use an unordered_map to store the previously calculated Fibonacci numbers. The fib(n) function first checks if the value of n is already present in the memoization table using memo.count(n). If it is, we simply return the value from the memoization table. If it's not present, we calculate the Fibonacci number using the recursive formula fib(n - 1) + fib(n - 2) and store it in the memoization table for future use.
 
