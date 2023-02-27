@@ -53,8 +53,8 @@ Code counts the steps taken and also considers if 1 or 2 steps taken at a time.
   https://www.includehelp.com/cpp-programs/stair-case-program-to-solve-the-staircase-problem.aspx
 
 ---
-
-#include <stdio.h>
+```cpp
+#include <iostream>
 
 using namespace std;
 
@@ -68,6 +68,7 @@ int main() {
 cout << "number of paths =  " << number_of_paths(4);
 return 0;
 }
+```
 
 ## Task 4: Individual (at home)
 
