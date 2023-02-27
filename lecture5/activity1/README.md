@@ -5,8 +5,41 @@
 - Refer to the following link. Discuss how the
   Recursive Factorial works:
   https://www.cs.usfca.edu/~galles/visualization/RecFact.html
+
+---
+Recursive factorial is a function that calculates the factorial of a given number using a recursive approach. The factorial of a positive integer n is defined as the product of all positive integers up to and including n. For example, the factorial of 5 (written as 5!) is calculated as follows:
+
+5! = 5 x 4 x 3 x 2 x 1 = 120
+
+Here's how the recursive factorial works:
+
+The function takes a positive integer n as input.
+
+If n is equal to 1, the function returns 1 (base case).
+
+If n is greater than 1, the function calls itself recursively with n-1 as the argument and multiplies the result by n.
+
+The recursion continues until the base case is reached, at which point the function returns the final result.
+
+
 - Refer to the following link. Discuss how the Recursive Fibonacci works:
   https://www.cs.usfca.edu/~galles/visualization/DPFib.html
+
+---
+
+Recursive Fibonacci is a function that calculates the nth Fibonacci number using a recursive approach. The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding numbers. The first two numbers in the sequence are 0 and 1. For example, the first ten Fibonacci numbers are:
+
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34
+
+Here's how the recursive Fibonacci works:
+
+The function takes a positive integer n as input.
+
+If n is equal to 0 or 1, the function returns n (base cases).
+
+If n is greater than 1, the function calls itself recursively with n-1 and n-2 as the arguments and adds the results.
+
+The recursion continues until the base case is reached, at which point the function returns the final result.
 
 ## Task 2
 
