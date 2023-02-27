@@ -58,7 +58,11 @@ Code counts the steps taken and also considers if 1 or 2 steps taken at a time.
 
 using namespace std;
 
-int number_of_paths(int n) { if (n <= 0) return 0; if (n == 1) return 1; if (n == 2) return 2; if (n == 3) return 4;
+int number_of_paths(int n) { 
+  if (n <= 0) return 0; 
+  if (n == 1) return 1; 
+  if (n == 2) return 2; 
+  if (n == 3) return 4;
 
 return number_of_paths(n - 1) + number_of_paths(n - 2) + number_of_paths(n - 3);
 }
