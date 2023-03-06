@@ -4,6 +4,8 @@
 
 - Answer at least 5 questions from the following link. Make sure you write the question as well as the answer.
   https://opendsa-server.cs.vt.edu/OpenDSA/Exercises/Binary/DefSumm.html
+  
+  -------
 
   What is the minimum number of internal nodes in a binary tree with 8 nodes? - 4
 
