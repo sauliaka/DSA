@@ -23,6 +23,16 @@
 - Explain how the code in ./src/bt.cpp works. Refer to the following link:
   https://www.geeksforgeeks.org/binary-tree-array-implementation/
 
+---
+
+root('A') sets root as 'A'
+  set_left('B', 0) sets left children as 'B' for root 'A'
+  set_right('C', 0) sets right children as 'C' for root 'A'
+  set_left('D', 1) sets left child as 'D' for child 'B'
+  set_right('E', 1) sets right child as 'E' for child 'B'
+  set_right('F', 2) sets right child as 'F' for child 'C'
+  print_tree() prints ABCDE-F---
+
 ## Task 3: Tree Traversal
 
 Refer to te following links. Discuss the difference between the different ways binary trees can be traversed.
