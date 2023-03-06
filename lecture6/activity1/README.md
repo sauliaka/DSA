@@ -5,6 +5,17 @@
 - Answer at least 5 questions from the following link. Make sure you write the question as well as the answer.
   https://opendsa-server.cs.vt.edu/OpenDSA/Exercises/Binary/DefSumm.html
 
+  What is the minimum number of internal nodes in a binary tree with 8 nodes? - 4
+
+  What is the minimum number of nodes in a full binary tree with height 3? - 7
+
+  True statement - None of the above
+
+  False statement - Every binary tree has at least one node
+
+  Suppose T is a binary tree with 14 nodes. What is the minimum possible height of T? - 3
+
+
 ## Task 2
 
 - Explain how the code in ./src/bt.cpp works. Refer to the following link:
