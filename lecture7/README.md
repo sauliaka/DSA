@@ -1,6 +1,6 @@
 # Outline
 
-## Topics sddsds
+## Topics
 
 - [Review](./review.md)
 - Graphs
