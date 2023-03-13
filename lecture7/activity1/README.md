@@ -5,6 +5,14 @@
 - Answer at least 5 questions from the following link. Make sure you write the question as well as the answer.
   https://opendsa-server.cs.vt.edu/OpenDSA/Exercises/Graph/GraphIntroSumm.html
 
+----
+- The number of edges incident to that vertex called its: degree
+- A complete graph is a clique of size: None of the above or |V|
+- A simple cycle: must have all vertices unique except that the first and last vertices are the same
+- What is the degree of Vertex 1?: 4
+- A graph with directed edges is called a: directed graph
+
+
 > You can refer to [link #2](#links) below for more info.
 
 ## Task 2
